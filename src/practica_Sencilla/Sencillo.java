@@ -19,7 +19,7 @@ public class Sencillo {
 		System.out.println("holamundo");
 		System.out.println("hola sudoku");
 		System.out.println("hola Rengoku");
-		System.out.println("Adios son");
+		
 		
 	
 	}
