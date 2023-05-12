@@ -17,6 +17,7 @@ public class Sencillo {
 			System.out.print("Do");
 		}
 		System.out.println("holamundo");
+		System.out.println("hola sudoku");
 		
 	
 	}
